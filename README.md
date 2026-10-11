@@ -1,0 +1,3 @@
+# ChessPuzzleGen
+
+Project repository.
